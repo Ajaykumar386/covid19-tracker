@@ -9,9 +9,11 @@ Edit/Remove SplashActivity.java and activity_splash.xml based on your choice.
 
 Build and Run
 
-## Rest-API
+## Rest-API used
 
-https://corona.lmao.ninja/v2/all/
+https://corona.lmao.ninja/v3/covid-19/all ```for dashboard```
+
+https://corona.lmao.ninja/v3/covid-19/countries ```for Countries```
 
 ## Credits
 
