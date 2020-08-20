@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void fetchData() {
 
-        String url  = "https://corona.lmao.ninja/v2/all/";
+        String url  = "https://corona.lmao.ninja/v3/covid-19/all";
 
         simpleArcLoader.start();
 

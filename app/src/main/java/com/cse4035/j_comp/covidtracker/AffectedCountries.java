@@ -94,7 +94,7 @@ public class AffectedCountries extends AppCompatActivity {
 
     private void fetchData() {
 
-        String url  = "https://corona.lmao.ninja/v2/countries/";
+        String url  = "https://corona.lmao.ninja/v3/covid-19/countries";
 
         simpleArcLoader.start();
 
